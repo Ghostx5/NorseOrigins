@@ -1,0 +1,15 @@
+{
+	"type": "origins:launch",
+	"cooldown": 600,
+	"hud_render": {
+		"bar_index": 4
+	},
+	"name": "God's Leap",
+	"description": "Jump Up then slowly fall down",
+	"sound": "minecraft:entity.parrot.fly",
+	"speed": 2,
+	"key": {
+		"key": "key.origins.primary_active",
+		"continuous": true
+	}
+}
