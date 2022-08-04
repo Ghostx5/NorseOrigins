@@ -1,2 +1,2 @@
-# NorseOrigins
-For The Empirical SMP!
+# Norse Origins
+Data Pack In Progress.
