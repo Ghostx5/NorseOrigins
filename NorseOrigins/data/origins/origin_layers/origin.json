@@ -1,5 +1,6 @@
 {
   "replace": false,
+  "default_origin": "origins:human",
   "origins": [
     "norseorigins:Odin"
   ]
